@@ -1,0 +1,15 @@
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.csproj.AssemblyReference.cache
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.AssemblyInfoInputs.cache
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.AssemblyInfo.cs
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.csproj.CoreCompileInputs.cache
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\bin\Debug\net6.0\Ejercicios_libro.exe
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\bin\Debug\net6.0\Ejercicios_libro.deps.json
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\bin\Debug\net6.0\Ejercicios_libro.runtimeconfig.json
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\bin\Debug\net6.0\Ejercicios_libro.dll
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\bin\Debug\net6.0\Ejercicios_libro.pdb
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.dll
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\refint\Ejercicios_libro.dll
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.pdb
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\Ejercicios_libro.genruntimeconfig.cache
+C:\Users\varga\OneDrive\Desktop\Ejercicios_libro\obj\Debug\net6.0\ref\Ejercicios_libro.dll
